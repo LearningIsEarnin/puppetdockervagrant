@@ -1,3 +1,2 @@
-This is just a repository about some files for Vagrant, Puppet and Docker.
-Nothing special, just for training puprose.
+This is the Dev-Department. We are creating code!
 
